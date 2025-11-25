@@ -15,4 +15,4 @@ WRITING HELLO WORLD IN THE MOST RARE PROGRAMMING LANGUAGE
 (=<`#9]76Z{z2V0/S-Qr*)M:,+*)('&$#"!~}|{z(Kw%$t"Vq0iAm,,j<h'`%
 ```
 
-<img width="800" height="670" alt="image" src="https://github.com/user-attachments/assets/c6badf84-f75a-4137-a53e-48ab24281d73" />
+<img width="800" height="670" alt="image" src="https://github.com/user-attachments/assets/c6badf84-f75a-4137-a53e-48ab24281d73" /> 
